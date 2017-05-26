@@ -1,0 +1,47 @@
+body{
+  background-color: #8E2835;
+}
+
+/*header*/
+header{
+  background-color: white;
+}
+
+.logo img{
+  width: 70%;
+}
+
+/*Redes Sociales*/
+.redesSociales img{
+  width: 35px;
+}
+
+/*nav*/
+nav a{
+  color: black;
+}
+
+.green{
+  background-color: #8BF5D8;
+}
+
+nav a:hover{
+  background-color: gray;
+}
+
+/*Articulos*/
+.section{
+    background-color: white;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+.img-tamano{
+  width: 100%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.img-pequeña{
+  width: 100%;
+}
