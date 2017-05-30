@@ -1,0 +1,72 @@
+/*body*/
+body{
+  background-image: url("../img/fondo.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+}
+
+.fondo{
+  background: rgba(169,169,245,0.7);
+  padding: 10px;
+}
+
+/*Cabecera*/
+header{
+  color: white;
+}
+.slogan {
+  text-align: right;
+}
+
+/*aside*/
+.aside{
+  background-color: #CEE3F6;
+  margin-bottom: 30px;
+}
+
+/*Búsqueda*/
+.busqueda{
+  margin-top: 10px;
+}
+
+/*Menú navegación*/
+.navegacion{
+  text-align: center;
+}
+.navegacion a:hover{
+  background-color: #1779ba;
+  color: white;
+  text-decoration: underline;
+}
+
+/*favoritos*/
+.favoritos img{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+/*Secciones*/
+.articulos{
+  background-color: #F5ECCE;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.articulos img{
+  margin-bottom: 10px;
+}
+.articulos p{
+  text-align: justify;
+}
+.fecha{
+  color: #1779ba;
+}
+
+/*Comentarios*/
+.media-object{
+  padding: 10px;
+  border: 1px groove #E6E6E6;
+}
+.media-object img{
+  width: 50px;
+}
